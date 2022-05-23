@@ -1,4 +1,4 @@
-![PROgrammer studios](PROgrammer studios.png)
+![PROgrammer studios](PROgrammer-studios.png)
 
 - 👋 Hi, I’m @ThePROgrammer5
 - 👀 I’m interested in JS, HTML, CSS and PHP
